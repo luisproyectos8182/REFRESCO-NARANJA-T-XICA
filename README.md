@@ -7,27 +7,7 @@
     <title>Naranja Tóxica</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #ffebcc;
-            color: #333;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            color: #ff6600;
-        }
-        img {
-            max-width: 300px;
-            margin: 20px 0;
-            border: 3px solid #ff6600;
-            border-radius: 10px;
-        }
-        p {
-            font-size: 18px;
-            max-width: 500px;
-            margin: 0 auto;
-        }
-    </style>
+            
 </head>
 <body>
     <h1>Naranja Tóxica</h1>
